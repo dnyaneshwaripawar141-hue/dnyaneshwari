@@ -1,0 +1,21 @@
+{
+  "name": "heritage-international-school",
+  "version": "1.0.0",
+  "description": "Official website for Heritage International School",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "school",
+    "education",
+    "website"
+  ],
+  "author": "Heritage International School",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
